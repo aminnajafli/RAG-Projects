@@ -1,0 +1,75 @@
+{
+  "questions": 54,
+  "cost_usd": {
+    "baseline": 0.02037,
+    "system": 0.013443,
+    "reduction": 0.34
+  },
+  "latency_ms": {
+    "baseline_p50": 1495,
+    "baseline_p95": 25027,
+    "system_p50": 4050,
+    "system_p95": 34691
+  },
+  "cache": {
+    "hit_rate": 0.241,
+    "paraphrase_hit_rate": 0.5,
+    "hits": 13,
+    "false_hits": 1,
+    "false_hit_ids": [
+      "q40"
+    ],
+    "verify_errors": 9
+  },
+  "router": {
+    "misses": 41,
+    "to_small_model": 27,
+    "escalated_to_large": 5,
+    "small_share": 0.659,
+    "reasons": {
+      "simple": 27,
+      "simple+escalated": 5,
+      "keyword:difference": 1,
+      "keyword:compare": 1,
+      "keyword:why": 1,
+      "keyword:explain": 1,
+      "keyword:pros": 1,
+      "keyword:affect": 1,
+      "keyword:summarize": 1,
+      "long:30w": 1,
+      "keyword:should i": 1
+    }
+  },
+  "quality": {
+    "baseline": {
+      "n": 54,
+      "pass": 49,
+      "pass_rate": 0.907
+    },
+    "system": {
+      "n": 54,
+      "pass": 48,
+      "pass_rate": 0.889
+    },
+    "system_cache_hits": {
+      "n": 13,
+      "pass": 12,
+      "pass_rate": 0.923
+    },
+    "system_small_model": {
+      "n": 27,
+      "pass": 26,
+      "pass_rate": 0.963
+    },
+    "system_large_model": {
+      "n": 14,
+      "pass": 10,
+      "pass_rate": 0.714
+    },
+    "system_escalated": {
+      "n": 5,
+      "pass": 1,
+      "pass_rate": 0.2
+    }
+  }
+}

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "q01",
+    "group": "g01_enter_pto",
+    "round": 1,
+    "kind": "seed",
+    "question": "How do I enter PTO in Workday?"
+  },
+  {
+    "id": "q02",
+    "group": "g02_cancel_pto",
+    "round": 1,
+    "kind": "seed",
+    "question": "How do I cancel a PTO request in Workday?"
+  },
+  {
+    "id": "q03",
+    "group": "g03_pto_approval",
+    "round": 1,
+    "kind": "seed",
+    "question": "Who approves my time off?"
+  },
+  {
+    "id": "q04",
+    "group": "g04_report_sick",
+    "round": 1,
+    "kind": "seed",
+    "question": "How do I report a sick day?"
+  },
+  {
+    "id": "q05",
+    "group": "g05_long_sick",
+    "round": 1,
+    "kind": "seed",
+    "question": "When does sick leave become a leave of absence?"
+  },
+  {
+    "id": "q06",
+    "group": "g06_parental_amount",
+    "round": 1,
+    "kind": "seed",
+    "question": "How much parental leave does GitLab offer?"
+  },
+  {
+    "id": "q07",
+    "group": "g07_parental_apply",
+    "round": 1,
+    "kind": "seed",
+    "question": "How do I apply for parental leave?"
+  },
+  {
+    "id": "q08",
+    "group": "g08_jury_duty",
+    "round": 1,
+    "kind": "seed",
+    "question": "Is jury duty paid at GitLab?"
+  },
+  {
+    "id": "q09",
+    "group": "g09_ff_day",
+    "round": 1,
+    "kind": "seed",
+    "question": "What is Family and Friends Day?"
+  },
+  {
+    "id": "q10",
+    "group": "g10_public_holidays",
+    "round": 1,
+    "kind": "seed",
+    "question": "Do I have to work on public holidays?"
+  },
+  {
+    "id": "q11",
+    "group": "g11_pto_limit",
+    "round": 1,
+    "kind": "seed",
+    "question": "Is there a limit on how much PTO I can take?"
+  },
+  {
+    "id": "q12",
+    "group": "g12_support_pto",
+    "round": 1,
+    "kind": "seed",
+    "question": "How should support engineers plan their time off?"
+  },
+  {
+    "id": "q13",
+    "group": "g13_ooo_tickets",
+    "round": 1,
+    "kind": "seed",
+    "question": "How do I handle my assigned tickets before going out of office?"
+  },
+  {
+    "id": "q14",
+    "group": "g14_sla",
+    "round": 1,
+    "kind": "seed",
+    "question": "What are the support ticket SLAs?"
+  },
+  {
+    "id": "q15",
+    "group": "g15_emergency",
+    "round": 1,
+    "kind": "seed",
+    "question": "How does support handle customer emergencies?"
+  },
+  {
+    "id": "q16",
+    "group": "g16_buddy",
+    "round": 1,
+    "kind": "seed",
+    "question": "What is an onboarding buddy?"
+  },
+  {
+    "id": "q17",
+    "group": "g17_onboarding_issue",
+    "round": 1,
+    "kind": "seed",
+    "question": "Where can I find my onboarding tasks?"
+  },
+  {
+    "id": "q18",
+    "group": "g18_offboarding",
+    "round": 1,
+    "kind": "seed",
+    "question": "What is the offboarding process?"
+  },
+  {
+    "id": "q19",
+    "group": "g19_support_regions",
+    "round": 1,
+    "kind": "seed",
+    "question": "What regions does the support team cover?"
+  },
+  {
+    "id": "q20",
+    "group": "g20_ticket_assignment",
+    "round": 1,
+    "kind": "seed",
+    "question": "How are tickets assigned to support engineers?"
+  },
+  {
+    "id": "q21",
+    "group": "c01_complex",
+    "round": 1,
+    "kind": "complex",
+    "question": "What is the difference between PTO and sick leave?"
+  },
+  {
+    "id": "q22",
+    "group": "c02_complex",
+    "round": 1,
+    "kind": "complex",
+    "question": "Compare the parental leave and sick leave policies."
+  },
+  {
+    "id": "q23",
+    "group": "c03_complex",
+    "round": 1,
+    "kind": "complex",
+    "question": "Why does GitLab encourage team members to take time off?"
+  },
+  {
+    "id": "q24",
+    "group": "c04_complex",
+    "round": 1,
+    "kind": "complex",
+    "question": "Explain how the support team handles on-call rotations."
+  },
+  {
+    "id": "q25",
+    "group": "c05_complex",
+    "round": 1,
+    "kind": "complex",
+    "question": "What are the pros and cons of GitLab's flexible PTO policy?"
+  },
+  {
+    "id": "q26",
+    "group": "c06_complex",
+    "round": 1,
+    "kind": "complex",
+    "question": "How does taking PTO affect my support ticket queue and my team's coverage? And who should I tell?"
+  },
+  {
+    "id": "q27",
+    "group": "c07_complex",
+    "round": 1,
+    "kind": "complex",
+    "question": "Summarize what a new support engineer does during onboarding."
+  },
+  {
+    "id": "q28",
+    "group": "c08_complex",
+    "round": 1,
+    "kind": "complex",
+    "question": "If I am on the support team and plan two weeks of vacation during a busy holiday period, what do I need to do in Workday and with my tickets?"
+  },
+  {
+    "id": "q29",
+    "group": "g01_enter_pto",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "How can I log my time off in Workday?"
+  },
+  {
+    "id": "q30",
+    "group": "g02_cancel_pto",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "Can I delete time off I already submitted?"
+  },
+  {
+    "id": "q31",
+    "group": "g03_pto_approval",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "Do I need manager approval to take PTO?"
+  },
+  {
+    "id": "q32",
+    "group": "g04_report_sick",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "What should I select in Workday when I'm out sick?"
+  },
+  {
+    "id": "q33",
+    "group": "g05_long_sick",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "How many sick days in a row count as a leave of absence?"
+  },
+  {
+    "id": "q34",
+    "group": "g06_parental_amount",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "How many weeks of parental leave can I take?"
+  },
+  {
+    "id": "q35",
+    "group": "g07_parental_apply",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "What is the process to request parental leave?"
+  },
+  {
+    "id": "q36",
+    "group": "g08_jury_duty",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "Do I get paid time off for jury duty?"
+  },
+  {
+    "id": "q37",
+    "group": "g09_ff_day",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "What is GitLab's Family and Friends Day holiday?"
+  },
+  {
+    "id": "q38",
+    "group": "g10_public_holidays",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "How are public holidays handled at GitLab?"
+  },
+  {
+    "id": "q39",
+    "group": "g11_pto_limit",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "Does GitLab have unlimited PTO?"
+  },
+  {
+    "id": "q40",
+    "group": "g12_support_pto",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "What do support team members need to do before going on PTO?"
+  },
+  {
+    "id": "q41",
+    "group": "g13_ooo_tickets",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "What should I do with my open tickets when I go OOO?"
+  },
+  {
+    "id": "q42",
+    "group": "g14_sla",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "How fast must support respond to a ticket?"
+  },
+  {
+    "id": "q43",
+    "group": "g15_emergency",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "What is the process for an emergency support request?"
+  },
+  {
+    "id": "q44",
+    "group": "g16_buddy",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "What does an onboarding buddy do?"
+  },
+  {
+    "id": "q45",
+    "group": "g17_onboarding_issue",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "How does the onboarding issue work?"
+  },
+  {
+    "id": "q46",
+    "group": "g18_offboarding",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "How is a team member offboarded?"
+  },
+  {
+    "id": "q47",
+    "group": "g19_support_regions",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "How is the support team organized by region?"
+  },
+  {
+    "id": "q48",
+    "group": "g20_ticket_assignment",
+    "round": 2,
+    "kind": "paraphrase",
+    "question": "How do support engineers pick which ticket to work on?"
+  },
+  {
+    "id": "q49",
+    "group": "g01_enter_pto",
+    "round": 3,
+    "kind": "paraphrase",
+    "question": "Where do I record my vacation days?"
+  },
+  {
+    "id": "q50",
+    "group": "g03_pto_approval",
+    "round": 3,
+    "kind": "paraphrase",
+    "question": "Who signs off on my vacation requests?"
+  },
+  {
+    "id": "q51",
+    "group": "g06_parental_amount",
+    "round": 3,
+    "kind": "paraphrase",
+    "question": "What is the parental leave entitlement?"
+  },
+  {
+    "id": "q52",
+    "group": "g08_jury_duty",
+    "round": 3,
+    "kind": "paraphrase",
+    "question": "Is jury duty leave paid?"
+  },
+  {
+    "id": "q53",
+    "group": "g14_sla",
+    "round": 3,
+    "kind": "paraphrase",
+    "question": "What is the first response time target for support tickets?"
+  },
+  {
+    "id": "q54",
+    "group": "g16_buddy",
+    "round": 3,
+    "kind": "paraphrase",
+    "question": "Will I get a buddy when I join GitLab?"
+  }
+]
