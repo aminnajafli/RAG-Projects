@@ -1,9 +1,3 @@
 venv/
-__pycache__/
 .idea/
-.env
-data/
-handbook/
-chroma_db/
-logs.db
-dashboard.html
+__pycache__/
